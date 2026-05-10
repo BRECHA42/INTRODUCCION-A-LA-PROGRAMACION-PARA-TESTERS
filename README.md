@@ -1,6 +1,4 @@
-# Sistema de Usuarios
-
-Introducción a la programación para testers - CES
+# Introducción a la programación para testers - CES
 
 ## Descripción
 
