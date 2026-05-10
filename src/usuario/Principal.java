@@ -1,6 +1,6 @@
 package usuario;
 
-public class Usuario {
+public class Principal {
     static void main(String[] args) {
         String Nombre;
         String Apellido;
