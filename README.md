@@ -1,6 +1,6 @@
 # Sistema de Usuarios
 
-Proyecto realizado en Java utilizando IntelliJ IDEA y GitHub.
+Introducción a la programación para testers - CES
 
 ## Descripción
 
