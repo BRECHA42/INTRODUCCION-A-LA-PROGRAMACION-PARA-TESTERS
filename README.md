@@ -13,6 +13,7 @@ Funcionaldiades sitio web http://cestore.ces.com.uy/adminces/.
   ### Datos requeridos
 - Email
 - Contraseña
+  
 - Crear cuenta: Permite crear una nueva cuenta de usuario en el sistema.
   ### Datos requeridos
 - Nombre
@@ -21,12 +22,14 @@ Funcionaldiades sitio web http://cestore.ces.com.uy/adminces/.
 - País de nacimiento
 - Contraseña
 - Rol
+  
 - Registrarse: Permite a nuevos usuarios registrarse en la plataforma.
 ### Datos requeridos
 - Nombre
 - Apellido
 - Email
 - Contraseña
+  
 - Reiniciar Contraseña: Permite recuperar o restablecer la contraseña de acceso.
 ### Datos requeridos
 - Email
@@ -40,7 +43,9 @@ Funcionaldiades sitio web http://cestore.ces.com.uy/adminces/.
 - Email
 - País de nacimiento
 - Contraseña
+  
 - Cerrar sesión: Permite finalizar la sesión activa del usuario.
+  
 - Crear Nuevo usuario: Permite registrar nuevos usuarios dentro del sistema.
 ### Datos requeridos
 - Nombre
@@ -49,10 +54,12 @@ Funcionaldiades sitio web http://cestore.ces.com.uy/adminces/.
 - País de nacimiento
 - Contraseña
 - Rol
+  
 - Eliminar Uusario (Solo accesible a Usuarios Administradores): Permite eliminar usuarios registrados.
 ### Datos requeridos
 - ID de usuario
 - Nombre de usuario
+  
 - Visualziar usuarios: Permite visualizar el listado de usuarios registrados en el sistema.
 ### Datos visualizados
 - Nombre
