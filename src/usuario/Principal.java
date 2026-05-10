@@ -5,7 +5,8 @@ public class Principal {
         String Nombre;
         String Apellido;
         String Email;
-        String Paisdenacimiento
-        String Contraseñapordefecto;;
+        String Paisdenacimiento;
+        String Contraseñapordefecto;
+        String Rol;
     }
 }
