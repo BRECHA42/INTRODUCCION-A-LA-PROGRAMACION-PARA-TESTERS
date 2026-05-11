@@ -13,26 +13,18 @@ Funcionaldiades sitio web http://cestore.ces.com.uy/adminces/.
 - Email
 - Contraseña
 ---  
-- Crear cuenta: Permite crear una nueva cuenta de usuario en el sistema.
+- Crear cuenta Administrador: Permite crear una nueva cuenta con Rol Administrador de usuario en el sistema.
   ### Datos requeridos
 - Nombre
 - Apellido
 - Email
 - País de nacimiento
 - Contraseña
-- Rol
----  
-- Registrarse: Permite a nuevos usuarios registrarse en la plataforma.
-### Datos requeridos
-- Nombre
-- Apellido
-- Email
-- Contraseña
 ---  
 - Reiniciar Contraseña: Permite recuperar o restablecer la contraseña de acceso.
 ### Datos requeridos
 - Email
-- Nueva contraseña
+- Contraseña
 ---
 ## Funcionalidades (Loguearse)
 ---
