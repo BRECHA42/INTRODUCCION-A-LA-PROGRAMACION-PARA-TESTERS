@@ -64,15 +64,6 @@ Funcionaldiades sitio web http://cestore.ces.com.uy/adminces/.
 
 ---
 
-## Tecnologías utilizadas
-
-- Java
-- IntelliJ IDEA
-- Git
-- GitHub
-
----
-
 ## Estructura del proyecto
 
 src/
